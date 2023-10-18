@@ -1,0 +1,229 @@
+/* ... (remaining CSS code) ... */
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+    padding: 0;
+   
+    background-size: cover;
+    background-position: center;
+    color: #333;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+header {
+    background-color: #e74c3c; /* Red color */
+    color: #fff;
+    padding: 20px 0;
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 1.2em;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #ff7675; /* Highlight color on hover */
+}
+
+main {
+    padding-top: 80px;
+}
+
+.section {
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.hero {
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 150px 0;
+    border-bottom: 2px solid #ecf0f1;
+}
+
+h2 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #e74c3c;
+}
+
+.tagline {
+    font-size: 1.5em;
+    color: #555;
+    margin-top: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 15px 30px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    transition: background-color 0.3s;
+    margin-top: 20px;
+    font-size: 1.2em;
+}
+
+.cta-button:hover {
+    background-color: #c0392b; /* Darker shade on hover */
+}
+
+.about-text {
+    font-size: 1.2em;
+    color: #555;
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* Updated footer color */
+footer {
+    background-color: #e74c3c;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* ... (remaining CSS code) ... */
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px; /* Increased margin for better spacing */
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    height: 150px; /* Increased height of the textarea */
+}
+/* ... (previous CSS code) ... */
+
+.donate-subsection {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+}
+
+.donate-subsection h3 {
+    color: #e74c3c;
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+/* ... (previous CSS code) ... */
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 10px;
+    color: #333;
+}
+
+/* Updated styling for the blood type dropdown */
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #fff; /* Set background color for dropdown */
+    color: #555;
+}
+
+button {
+    cursor: pointer;
+}
+
+/* ... (remaining CSS code) ... */
+/* ... (previous CSS code) ... */
+
+.success-message {
+    color: #27ae60; /* Green color for success */
+    margin-top: 10px;
+}
+nav a {
+    color: #ecf0f1;
+    text-decoration: none;
+    margin: 0 10px; /* Reduced margin for navigation links */
+    font-size: 16px; /* Reduced font size for navigation links */
+}
+
+.fa {
+    font-size: 14px; /* Adjust the font size for all Font Awesome icons */
+}/* ... (previous CSS code) ... */
+
+.success-message {
+    color: #27ae60;
+    margin-top: 10px;
+}
+/* ... (previous CSS code) ... */
+
+.small-icon {
+    font-size: 14px; /* Adjust the font size for small icons */
+}
+
+
+
+/* ... (remaining CSS code) ... */
+
+
+
+
+

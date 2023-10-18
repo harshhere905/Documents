@@ -1,7 +1,3 @@
-Certainly! Below is a sample description that you can use for your GitHub README to introduce your project:
-
----
-
 # BloodUnity
 
 BloodUnity is a web platform designed to facilitate seamless blood donation and connect donors with those in need. The project aims to bridge the gap between blood donors and recipients, ensuring a swift and efficient process for blood donation.

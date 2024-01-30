@@ -23,7 +23,7 @@ To explore the features and functionalities of BloodUnity, visit [https://harshh
 - HTML5
 - CSS3
 - JavaScript (ES6+)
-- [Add other technologies or frameworks used]
+
 
 ## Contributing
 
